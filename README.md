@@ -1,0 +1,1 @@
+This is Tim's something other than first git project!
